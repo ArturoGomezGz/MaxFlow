@@ -1,0 +1,48 @@
+# Compilación de C++
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.exe
+*.dll
+*.lib
+
+# Archivos generados por depuración
+*.dSYM/
+*.stackdump
+*.pdb
+*.idb
+
+# Archivos de compiladores
+*.ilk
+*.manifest
+*.exp
+*.cache
+*.log
+
+# Archivos de proyectos o IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.swp
+*.bak
+*~
+
+# Carpetas de build
+/build/
+bin/
+obj/
+dist/
+
+# Archivos de pruebas o dumps
+*.gcda
+*.gcno
+*.gcov
