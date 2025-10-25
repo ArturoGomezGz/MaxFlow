@@ -1,3 +1,6 @@
+// Arturo Gómez
+// Braulio Fernando Antero Díaz
+
 #include <bits/stdc++.h>
 using namespace std;
 
